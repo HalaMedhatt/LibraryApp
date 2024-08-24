@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344494616818",
+    "project_id": "libraryapp-4e85d",
+    "storage_bucket": "libraryapp-4e85d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344494616818:android:48783cb380df08f3f9e06b",
+        "android_client_info": {
+          "package_name": "com.hala.libraryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOFNl7Kvb5bTgGkHU14IqkRAjyKVvfMmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
